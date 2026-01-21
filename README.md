@@ -41,8 +41,8 @@ Tenho foco em **clareza de regras de negócio, organização de código e boas p
 
 ## 🚀 Experiência em Projetos
 
-🔹 **Sistema de Parcelamento e Geração de Guias (DAE)**  
-- Implementação de regras de cálculo de **multa e juros**
+🔹 **Sistema de Parcelamento e Geração de Guias  
+- Implementação de regras de cálculos
 - Geração automática de documentos
 - Backend Java EE com planejamento de **migração para Spring Boot**
 
