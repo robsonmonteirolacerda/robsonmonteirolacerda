@@ -66,8 +66,8 @@ Tenho foco em **clareza de regras de negócio, organização de código e boas p
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(adicione seu link aqui)*
-- 📧 Email: *(adicione seu email profissional)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/robson-monteiro-39075a1a1/)*
+##- 📧 Email: *(robsonmonteiro_ads@gmail.com)*
 
 ---
 
