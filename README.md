@@ -1,62 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.robsonmonteirolacerda" />
+# 👋 Olá, eu sou o Robson Monteiro
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Robson+Monteiro+Lacerda!;" />
-</h1>
+🎯 Desenvolvedor de Software  
+☕ Backend Java | Spring Boot | Arquitetura de Sistemas  
+⚛️ Frontend React | Vite | Tailwind CSS  
 
-<h3 align="center">A passionate software developer from Brasil</h3>
+Sou desenvolvedor com experiência em **sistemas corporativos e administrativos**, atuando tanto em **ambientes legados (Java EE / Java 7)** quanto na **modernização de aplicações para arquiteturas modernas com Spring Boot e frontend React**.
 
-<!--
-**robsonmonteirolacerda/robsonmonteirolacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho foco em **clareza de regras de negócio, organização de código e boas práticas**, buscando sempre soluções simples, sustentáveis e de fácil manutenção.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,php,javascript,typescript,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,postgres,mysql,html,css,vscode,figma,git" />
-</div>
+## 🧠 Sobre mim
 
-<br/>
-<hr/>
+- 👨‍💻 Atuação em **sistemas administrativos e governamentais**
+- 🔄 Experiência com **manutenção e evolução de sistemas legados**
+- 🚀 Migração gradual de aplicações para **Spring Boot**
+- 🏗️ Interesse constante em **arquitetura, domínio de negócio e qualidade de código**
+- 🌱 Em evolução contínua no **ecossistema Java moderno e frontend React**
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+## 🛠️ Tecnologias & Ferramentas
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=robsonmonteirolacerda&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-<br/><br/>
-<hr/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br/><br/>
-<hr/>
+### Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<br/>
+---
 
+## 🚀 Experiência em Projetos
+
+🔹 **Sistema de Parcelamento e Geração de Guias (DAE)**  
+- Implementação de regras de cálculo de **multa e juros**
+- Geração automática de documentos
+- Backend Java EE com planejamento de **migração para Spring Boot**
+
+🔹 **APIs REST Corporativas**  
+- Spring Boot + JPA
+- Organização por camadas
+- Foco em regras de negócio e clareza de domínio
+
+🔹 **Frontend Administrativo Moderno**  
+- React + Vite + Tailwind
+- Interfaces simples, objetivas e responsivas
+- Integração com APIs REST
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Robson GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonmonteirolacerda&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(adicione seu link aqui)*
+- 📧 Email: *(adicione seu email profissional)*
+
+---
+
+⭐ Perfil focado em desenvolvimento corporativo, organização de código e evolução técnica contínua.
